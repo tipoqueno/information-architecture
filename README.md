@@ -16,8 +16,6 @@
     - [Websites & Blogs](#websites--blogs)
 - [Community](#community)
     - [Events](#events)
-- [Tools](#tools)
-- [Resources](#resources)
 
 
 ## Learn
@@ -57,6 +55,12 @@
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Tools
+
+- [Visual vocabulary](http://www.jjg.net/ia/visvocab/) - A visual vocabulary
+for describing information architecture and interaction design.
+
+
 ### Publications
 
 - [Journal of IA](http://journalofia.org/) - International peer-reviewed scholarly journal. Its aim is to facilitate the systematic development of the scientific body of knowledge in the field of information architecture.
@@ -67,6 +71,8 @@
 ### Websites & Blogs
 
 - [Boxes and Arrows](http://boxesandarrows.com/) - Devoted to the practice, innovation, and discussion of design—including graphic design, interaction design, information architecture, and the design of business.
+
+- [DSIA™ Portal of Information Architecture](http://www.methodbrain.com/articles/index.cfm) - DSIA Research Initiative investigates IA theory and methods that help to promote a consistent and coherent practice of information architecture.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
