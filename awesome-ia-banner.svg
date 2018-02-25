@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="888px" height="200px" viewBox="0 0 888 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>awesome-ui-banner</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#EFEFEF" offset="0%"></stop>
+            <stop stop-color="#E4E4E4" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="awesome-ui-banner">
+            <rect id="Rectangle-2" fill="url(#linearGradient-1)" x="0" y="0" width="888" height="200" rx="4"></rect>
+            <path d="M536.911133,166 L536.911133,34.2958984 L556.874512,34.2958984 L556.874512,166 L536.911133,166 Z M607.912109,118.84668 L646.393555,118.84668 L627.333496,61.3051758 L626.972168,61.3051758 L607.912109,118.84668 Z M662.291992,166 L652.084473,136.551758 L602.130859,136.551758 L592.013672,166 L570.875977,166 L618.751953,34.2958984 L635.463379,34.2958984 L683.339355,166 L662.291992,166 Z" id="IA" fill="#707070"></path>
+            <path d="M475.025,90.0333333 L405.275,26.0465021 L395.4635,36.7419753 L453.5885,90.0333333 L224.483,90.0333333 L282.608,36.6954733 L272.7965,26 L203.0465,90.0333333 L203,90.0333333 L203,132.2107 C203,151.276543 221.3675,166.80823 243.92,166.80823 L286.9325,166.80823 C309.485,166.80823 327.8525,151.276543 327.8525,132.2107 L327.8525,104.495473 L350.1725,104.495473 L350.1725,132.2107 C350.1725,151.276543 368.54,166.80823 391.0925,166.80823 L434.105,166.80823 C456.6575,166.80823 475.025,151.276543 475.025,132.2107 L475.025,90.0333333 Z" id="Shape" fill="#FC60A8"></path>
+        </g>
+    </g>
+</svg>
