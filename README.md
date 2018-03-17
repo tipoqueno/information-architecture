@@ -12,6 +12,7 @@
 - [Learn](#learn)
     - [Books](#books)
     - [Articles](#articles)
+    - [Courses](#courses)
     - [Techniques](#techniques)
     - [Publications](#publications)
     - [Websites & Blogs](#websites--blogs)
@@ -47,6 +48,11 @@
 - [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
+
+
+### Courses
+
+- [Information Architecture (IA) Fundamentals / UDEMY](https://www.udemy.com/ia-fundamentals/) - Everything you need to know — from what content should be presented to what it’s called to how it’s organized! **PAID** / Video course by Joe Natoli.
 
 
 ### Techniques
