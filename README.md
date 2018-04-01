@@ -39,13 +39,14 @@
 
 ### Articles
 
-- [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) - Information architecture is the practice of deciding how to arrange the parts of something to be understandable.
+- [What is Information Architecture?](https://www.iainstitute.org/what-is-ia) *Information Architecture Institute* - Information architecture is the practice of deciding how to arrange the parts of something to be understandable.
 
-- [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) - A visual vocabulary for describing information architecture and interaction design.
+- [Visual vocabulary for Information Architecture](http://www.jjg.net/ia/visvocab/) *Jesse James Garret* - A visual vocabulary for describing information architecture and interaction design.
 
-- [A Model for Understanding Information Architecture: Ontology, Taxonomy and Choreography](https://www.youtube.com/watch?v=6oaxdq7uqIY) - Understanding where the Information Architecture part is.
+- [A Model for Understanding Information Architecture: Ontology, Taxonomy and Choreography](https://www.youtube.com/watch?v=6oaxdq7uqIY) *Dan Klyn* - Understanding where the Information Architecture part is.
 
-- [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
+- [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) *Tubik Studio* - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
+
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
