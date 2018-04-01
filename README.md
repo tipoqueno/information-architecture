@@ -47,6 +47,7 @@
 
 - [Information Architecture. Basics for Designers](https://uxplanet.org/information-architecture-basics-for-designers-b5d43df62e20) *Tubik Studio* - Article is devoted to the essence of information architecture and presents the basic points every designer should know.
 
+- [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/) *UXBooth* - In this article we’ll discuss what information architecture really is, and why it’s a valuable aspect of the user experience process.
 
 <sup>[back to table of contents](#table-of-contents)</sup>
 
