@@ -95,7 +95,7 @@
 
 - [World IA Day](http://worldiaday.org/) - One-day annual celebration hosted by the Information Architecture Institute and held in dozens of locations across the globe.
 
-- [IA Summit](http://www.iasummit.org/) - The preeminent conference for practitioners and academics who confront the systemic challenge of creating and managing digital user interfaces and rich information environments.
+- [Information Architecture Conference](http://www.theiaconference.com/) - The preeminent conference for practitioners and academics who confront the systemic challenge of creating and managing digital user interfaces and rich information environments.
 
 - [Euro IA](http://euroia.org/) - The leading Information Architecture (IA) and User Experience (UX) conference for Europe.
  
