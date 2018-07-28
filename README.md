@@ -1,7 +1,7 @@
-![Awesome UI Banner](awesome-ia-banner.svg)
-# Awesome Information Architecture [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+![IA Banner](awesome-ia-banner.svg)
+# Information Architecture [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
-> A curated list of awesome things related to Information Architecture
+> A curated list of useful things related to Information Architecture
  
 * Use <kbd>Ctrl</kbd> + <kbd>F</kbd> or <kbd>Cmd</kbd> + <kbd>F</kbd> to search faster :wink:
 * If you find it useful, help me spread the word :metal:
