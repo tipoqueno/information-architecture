@@ -48,6 +48,8 @@
 
 - [Complete Beginner’s Guide to Information Architecture](http://www.uxbooth.com/articles/complete-beginners-guide-to-information-architecture/) *UXBooth* - In this article we’ll discuss what information architecture really is, and why it’s a valuable aspect of the user experience process.
 
+- [Information architecture](https://www.ibm.com/design/language/experience/interaction/information-architecture/) *IBM Design Language* - Information architecture ensures that content fits its context.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
