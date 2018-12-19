@@ -50,6 +50,8 @@
 
 - [Information architecture](https://www.ibm.com/design/language/experience/interaction/information-architecture/) *IBM Design Language* - Information architecture ensures that content fits its context.
 
+- [The Ultimate Guide to Information Architecture](https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/) *Cameron Chapman* - While not every project can have a dedicated IA, understanding the basic principles behind good information architecture can go a long way toward making sure your site’s content is as easy to access and use as possible.
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
