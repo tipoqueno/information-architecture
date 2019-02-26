@@ -52,6 +52,8 @@
 
 - [The Ultimate Guide to Information Architecture](https://www.webdesignerdepot.com/2015/02/the-ultimate-guide-to-information-architecture/) *Cameron Chapman* - While not every project can have a dedicated IA, understanding the basic principles behind good information architecture can go a long way toward making sure your site’s content is as easy to access and use as possible.
 
+- [What is Information Architecture?](https://www.optimalworkshop.com/guides/what-is-information-architecture) *Optimal Workshop* - What is it? How do you find it? How do you research it? And how do you create it? We’ve compiled an extensive directory where you can find authoritative content from information architects all over the world. 
+
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
